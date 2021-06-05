@@ -14,8 +14,14 @@ Para você escutar estações use f!radio *Numero da estação*
  - 90's Mix (5)
  - Rock Radio (6)
  - Indie Pop (7)
- - Funk Radio \ ***Not recommended*** : pt-br (8)
- 
+ - Hits Radio (8)
+ - Jovem Pan (9)
+ - Mix Radio (10)
+ - Jovem Pan News (11)
+ - Tennis Radio (12)
+ - FailRadio (13)
+ - Bounce FM (14)
+
 # Criação
 Bot criado pela empresa [Light Connect](), você vai adorar este bot!
 
